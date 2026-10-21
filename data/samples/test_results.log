@@ -1,0 +1,5 @@
+2026-10-22T10:00:00 INFO case=boot status=PASS
+2026-10-22T10:00:01 ERROR case=inference status=FAIL
+2026-10-22T10:00:02 INFO case=memory status=PASS
+2026-10-22T10:00:03 INFO case=output_check status=PASS
+2026-10-22T10:00:04 ERROR case=timeout status=FAIL
